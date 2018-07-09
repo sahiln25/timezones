@@ -20,10 +20,8 @@
 
 #### Screenshots:
 ![Alt text](https://i.imgur.com/czJlSgs.png "City via Google API")
-
-
+#
 ![Alt text](https://i.imgur.com/UeN1Tfc.png "GMT Difference calculated based on city selected")
-
-
+#
 ![Alt text](https://i.imgur.com/2hfGTrU.png "List of records")
 
